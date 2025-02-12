@@ -1,0 +1,95 @@
+.img_profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    margin-top:110px;
+    margin-bottom:8px;
+}
+
+.text_main{
+    color: #edf6f0;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: "Liter", serif;
+}
+
+.all_tab button{
+    display: block;
+    margin-bottom: 25px; 
+    width: 400px;
+    height: 50px;
+    color: rgb(214, 214, 214);
+    background-color: black;
+    border-color: rgb(136, 136, 136);
+    border-radius: 8px;
+    font-size: 20px;
+
+
+    /* border: 1px; */
+
+  
+/* 
+    text-align: left;
+    padding-left: 50px; */
+ 
+}
+
+
+.full {
+    background-color: black;
+    text-align: center;
+}
+
+
+.all_tab {
+
+    place-items: center;
+   
+}
+
+
+
+.all_tab  .btn_WhatsApp  {
+
+  background: linear-gradient(45deg, #25D366, #128C7E);
+    margin-inline-end: 5px;
+
+}
+
+
+.all_tab  .btn_Facebook  {
+    
+    background: linear-gradient(45deg,#0165E1,  #17A9FD);
+    margin-inline-end: 5px;
+ 
+}
+
+.all_tab  .btn_Telegram  {
+
+    background-color: #27A7E7 ;
+    margin-inline-end: 5px;
+
+}
+
+.all_tab  .btn_Telegram i {
+
+    color:#edf6f0 ;
+    margin-inline-end: 5px;
+
+}
+
+
+
+.all_tab  .btn_Instagram {
+    
+    background: linear-gradient(-45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+
+}
+
+.all_tab  .btn_Instagram i {
+    
+    margin-inline-end: 5px;
+    color: white;
+
+}
+
