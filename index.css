@@ -2,7 +2,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%; 
-    margin-top:110px;
+    margin-top:100px;
     margin-bottom:8px;
 }
 
@@ -16,22 +16,16 @@
 .all_tab button{
     display: block;
     margin-bottom: 25px; 
-    width: 400px;
+    width: 320px;
     height: 50px;
     color: rgb(214, 214, 214);
     background-color: black;
     border-color: rgb(136, 136, 136);
     border-radius: 8px;
     font-size: 20px;
+    cursor: pointer;
 
 
-    /* border: 1px; */
-
-  
-/* 
-    text-align: left;
-    padding-left: 50px; */
- 
 }
 
 
